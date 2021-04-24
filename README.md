@@ -1,2 +1,0 @@
-# MvcProjeKamp
-Mvc Proje Kampı
